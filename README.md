@@ -24,5 +24,5 @@ python3 tests/gateway_test.py
 ### TODO:
 - Unittest
 - Improve error handling
-- Security improvements
-
+- Security improvements (python-dotenv)
+- Quality of service
